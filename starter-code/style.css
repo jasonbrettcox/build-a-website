@@ -1,0 +1,89 @@
+a {
+	color: white;
+	text-decoration: none;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #3493E8;
+}
+
+
+body {
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	background-image: url("file:///Users/jasoncox/Desktop/wdi-work/build-a-website/starter-code/images/stormy.jpg");
+	color: white;
+	display: block;
+    margin:  50px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    text-decoration: none;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	text-align: center;
+	float: left;
+	height: 70px;
+
+}
+
+.resume{
+	text-align: justify;
+	margin-left: 30px;
+	padding-left: 30px;
+}
+}
+.headline{	
+}
+
+.header {
+
+}
+.footer{
+	color: white;
+
+}
+.education{
+	float: left;
+}
+.citipix{
+	padding: 50px;
+}
+.relaxr{
+	padding: 50px;
+}
+.matchmaker{
+	padding: 50px;
+}
+.footerText2{
+	text-align: right;
+	width: 1000px;
+}
+.footerText1 {
+	text-align: left;
+	width: auto;
+	padding: 50px;
+}
+}
